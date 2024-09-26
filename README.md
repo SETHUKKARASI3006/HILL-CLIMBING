@@ -30,7 +30,7 @@ Feedback is provided in terms of heuristic function
 </ol>
 
 </p>
-<br><br><br>
+<br><br>
 <hr>
 <h3> Steps Applied:</h3>
 <h3>Step-1</h3>
